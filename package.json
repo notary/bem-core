@@ -40,7 +40,7 @@
     "enb-css": "^1.0.2",
     "enb-js": "^1.1.0",
     "enb-magic-factory": "^0.5.0",
-    "enb-magic-platform": "0.6.0",
+    "enb-magic-platform": "0.7.0",
     "git-hooks": "^1.0.2",
     "istanbul": "^0.4.3",
     "jscs": "^2.11.0",
